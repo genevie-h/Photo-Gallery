@@ -1,0 +1,14 @@
+
+body{
+  background-color:lightyellow;
+}
+img {
+  width:60px;
+  height:90px;
+}
+.summer {
+  height:200px;
+  width:180px;
+  border-style: solid;
+  border-color: pink;
+}
